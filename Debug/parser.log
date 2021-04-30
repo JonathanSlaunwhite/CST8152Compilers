@@ -1,0 +1,61 @@
+﻿  parser.c
+C:\Users\Jonathan\source\repos\parser\parser.c(54,19): error C2065:  'Jonathan': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(54,19): error C2146:  syntax error: missing ';' before identifier 'Slaunwhite'
+C:\Users\Jonathan\source\repos\parser\parser.c(55,2): error C2065:  'Slaunwhite': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(55,2): error C2146:  syntax error: missing ';' before identifier 'Histroy'
+C:\Users\Jonathan\source\repos\parser\parser.c(55,9): error C2065:  'Histroy': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(55,19): error C2065:  'Versions': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(55,19): error C2143:  syntax error: missing ';' before 'constant'
+C:\Users\Jonathan\source\repos\parser\parser.c(55,9): warning C4552:  '/': result of expression not used
+C:\Users\Jonathan\source\repos\parser\parser.c(55,24): error C2143:  syntax error: missing ';' before 'constant'
+C:\Users\Jonathan\source\repos\parser\parser.c(56,2): error C2146:  syntax error: missing ';' before identifier 'Called'
+C:\Users\Jonathan\source\repos\parser\parser.c(56,9): error C2065:  'Called': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(56,9): error C2146:  syntax error: missing ';' before identifier 'Functions'
+C:\Users\Jonathan\source\repos\parser\parser.c(57,2): error C2065:  'Functions': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(57,2): error C2146:  syntax error: missing ';' before identifier 'Parameters'
+C:\Users\Jonathan\source\repos\parser\parser.c(57,13): error C2065:  'Parameters': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(57,13): error C2146:  syntax error: missing ';' before identifier 'sync_token_code'
+C:\Users\Jonathan\source\repos\parser\parser.c(58,2): error C2065:  'sync_token_code': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(58,2): error C2146:  syntax error: missing ';' before identifier 'Return'
+C:\Users\Jonathan\source\repos\parser\parser.c(58,9): error C2065:  'Return': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(58,9): error C2146:  syntax error: missing ';' before identifier 'Value'
+C:\Users\Jonathan\source\repos\parser\parser.c(59,2): error C2065:  'none': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(59,2): error C2146:  syntax error: missing ';' before identifier 'Algorithum'
+C:\Users\Jonathan\source\repos\parser\parser.c(60,89): warning C4138:  '*/' found outside of comment
+C:\Users\Jonathan\source\repos\parser\parser.c(60,90): error C2059:  syntax error: '/'
+C:\Users\Jonathan\source\repos\parser\parser.c(61,24): error C2065:  'sync_token_code': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(62,25): error C2065:  'sync_token_code': undeclared identifier
+C:\Users\Jonathan\source\repos\parser\parser.c(66,9): warning C4013:  'exit' undefined; assuming extern returning int
+C:\Users\Jonathan\source\repos\parser\parser.c(68,11): error C2059:  syntax error: 'while'
+C:\Users\Jonathan\source\repos\parser\parser.c(68,56): error C2059:  syntax error: '}'
+C:\Users\Jonathan\source\repos\parser\parser.c(219,22): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(263,19): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(316,20): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(336,31): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(351,10): warning C4013:  'string' undefined; assuming extern returning int
+C:\Users\Jonathan\source\repos\parser\parser.c(371,19): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(376,14): warning C4013:  'conditional' undefined; assuming extern returning int
+C:\Users\Jonathan\source\repos\parser\parser.c(399,19): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(405,14): warning C4013:  'conditional' undefined; assuming extern returning int
+C:\Users\Jonathan\source\repos\parser\parser.c(424,23): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(456,15): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(476,23): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(496,25): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(520,29): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(547,16): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(552,19): warning C4013:  'output_statement' undefined; assuming extern returning int
+C:\Users\Jonathan\source\repos\parser\parser.c(570,21): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(608,20): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(627,26): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(633,22): warning C4013:  'primary_arithmetic' undefined; assuming extern returning int
+C:\Users\Jonathan\source\repos\parser\parser.c(655,29): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(675,31): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(720,35): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(723,21): warning C4013:  'primary_arithmetic' undefined; assuming extern returning int
+C:\Users\Jonathan\source\repos\parser\parser.c(742,38): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(749,22): warning C4013:  'primary_arithmetic' undefined; assuming extern returning int
+C:\Users\Jonathan\source\repos\parser\parser.c(755,22): warning C4013:  'primary_arithmetic' undefined; assuming extern returning int
+C:\Users\Jonathan\source\repos\parser\parser.c(779,30): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(816,30): error C2143:  syntax error: missing ';' before '{'
+C:\Users\Jonathan\source\repos\parser\parser.c(818,17): warning C4013:  'primary_string' undefined; assuming extern returning int
+C:\Users\Jonathan\source\repos\parser\parser.c(206): error C1075:  '{': no matching token found
