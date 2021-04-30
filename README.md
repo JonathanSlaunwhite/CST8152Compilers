@@ -1,2 +1,2 @@
 "# Compilers" 
-Built a compiler from C called "platypus"
+Built a compiler from C for the languaged called "platypus"
